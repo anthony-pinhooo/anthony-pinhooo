@@ -1,5 +1,4 @@
-## Olá ! Eu sou Anthony 😁
-
+<h2>Olá 🦾, eu sou o Anthony !</h2>
 <div align="left">
     <a href="https://github.com/anthony-pinhooo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthony-pinhooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
