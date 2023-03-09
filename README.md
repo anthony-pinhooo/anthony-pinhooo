@@ -1,4 +1,4 @@
-<h2>Olá 🦾, eu sou o Anthony !</h2>
+<h2>E aí 🦾, eu sou o Anthony !</h2>
 <div align="left">
     <a href="https://github.com/anthony-pinhooo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthony-pinhooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,9 +17,7 @@
     <ul>
       <li>Desenvolvimento Web</li>
       <li>Python</li>
-      <li>C#</li>
-      <li>Banco de Dados</li>
-      <li>UI/UX Design</li>
+      <li>Desenvolvimento de Jogos (Unity)</li>
     </ul>
   </div>
  
